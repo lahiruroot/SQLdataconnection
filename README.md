@@ -1,2 +1,3 @@
 # SQLdataconnection
-test application for transfer data to SQL data base.... Application UI created by using MaterialSkin.0.2.1
+Test application for transfer data to SQL database.... 
+Application UI created by using MaterialSkin.0.2.1
